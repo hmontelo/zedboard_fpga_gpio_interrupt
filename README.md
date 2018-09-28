@@ -1,3 +1,5 @@
+# Hilgad Montelo - hilgad.montelo at gmail.com
+
 -- Design:
 
 For this system, it was developed a hardware block design and then wrote source code to implement a kernel module and 
